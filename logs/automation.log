@@ -1,0 +1,436 @@
+2024-06-25 11:39:25 INFO  TC001_AccountRegistrationTest:21 - clicked on my accunt log
+2024-06-25 11:39:35 ERROR TC001_AccountRegistrationTest:53 - Test failed..
+2024-06-25 11:45:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 11:45:18 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 11:45:18 INFO  TC001_AccountRegistrationTest:21 - clicked on my accunt log
+2024-06-25 11:45:31 ERROR TC001_AccountRegistrationTest:53 - Test failed..
+2024-06-25 11:46:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 11:46:34 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 11:46:35 INFO  TC001_AccountRegistrationTest:21 - clicked on my accunt log
+2024-06-25 11:46:48 ERROR TC001_AccountRegistrationTest:53 - Test failed..
+2024-06-25 11:50:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 11:50:12 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 11:50:12 INFO  TC001_AccountRegistrationTest:21 - clicked on my accunt log
+2024-06-25 11:50:22 ERROR TC001_AccountRegistrationTest:53 - Test failed..
+2024-06-25 11:50:27 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 11:50:30 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:05:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 12:05:38 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:05:39 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:05:49 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:05:53 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 12:05:55 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:14:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 12:14:56 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:14:56 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:15:06 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:15:11 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 12:15:13 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:16:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 12:16:30 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:16:30 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:16:40 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:20:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 12:20:22 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:20:23 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:20:33 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:20:33 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-25 12:20:38 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 12:20:40 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:21:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 12:21:54 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:21:54 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:22:04 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:22:04 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-25 12:22:10 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 12:22:12 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:26:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 12:26:38 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:26:38 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:26:48 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:55:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 12:56:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-25 12:56:45 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:56:45 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:56:55 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 12:57:00 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-25 12:57:02 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-25 12:59:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 12:59:04 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 12:59:05 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 12:59:15 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kumar\AppData\Local\Temp\testng-eclipse--1613756097\testng-customsuite.xml
+
+2024-06-25 13:01:00 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1b70203f: 60 ms
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b0f7d9d: 14 ms
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@350b3a17: 12 ms
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d2a6eac: 9 ms
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@88a8218: 7 ms
+2024-06-25 13:01:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@50b1f030: 0 ms
+2024-06-25 13:36:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-25 13:38:40 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-25 13:38:56 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-25 13:39:28 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 15:51:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 15:52:00 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 15:52:01 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 15:52:11 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:00:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:00:55 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:00:56 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:00:56 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:00:56 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:01:07 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:01:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:01:59 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:01:59 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:02:00 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:02:00 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:02:11 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:03:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:03:30 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:03:30 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:03:31 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:03:31 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:03:43 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:03:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:06:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:06:30 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:06:30 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:06:31 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:06:31 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:06:42 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:07:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:07:44 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:07:44 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:07:45 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:07:45 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:07:56 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-26 16:13:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:13:43 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:13:43 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:13:44 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:13:44 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:13:47 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-26 16:13:47 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-26 16:17:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-26 16:17:22 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:17:22 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:17:23 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:17:23 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:17:26 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-26 16:17:26 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-26 16:32:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-26 16:32:28 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 16:32:28 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 16:32:29 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 16:32:29 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 16:32:32 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-26 16:32:32 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-26 16:32:36 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-26 16:32:38 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-26 18:31:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-26 18:31:21 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-26 18:31:21 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-26 18:31:22 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-26 18:31:22 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-26 18:31:25 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-26 18:31:25 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-26 18:31:29 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-26 18:31:31 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-27 12:45:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-27 12:45:06 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-27 12:45:07 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-27 12:45:07 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-27 12:45:07 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-27 12:45:09 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-27 12:45:10 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-27 12:45:14 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-27 12:45:16 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-27 12:48:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\grouping.xml
+
+2024-06-27 12:48:55 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-27 12:48:55 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-27 12:48:56 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-27 12:48:56 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-27 12:48:59 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-27 12:48:59 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-27 12:49:03 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-27 19:46:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-27 20:37:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-27 20:40:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 09:54:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:01:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:02:06 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 11:02:06 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-28 11:02:07 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-28 11:02:07 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-28 11:02:10 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-28 11:02:10 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-28 11:02:15 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-28 11:02:17 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-28 11:45:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:45:41 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 11:45:41 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 11:53:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:53:32 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 11:53:32 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 11:55:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:55:57 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 11:55:57 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 11:59:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 11:59:28 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 11:59:28 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 12:02:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:02:25 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:02:25 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-28 12:02:27 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-28 12:02:27 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-28 12:02:29 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-28 12:02:30 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-28 12:02:34 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-28 12:02:36 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-28 12:03:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:03:59 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:03:59 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 12:06:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:06:59 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:06:59 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 12:14:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:14:31 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:14:31 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 12:25:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:26:09 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:26:09 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-06-28 12:26:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:26:53 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:26:53 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-28 12:26:54 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-28 12:26:54 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-28 12:26:57 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-28 12:26:57 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-28 12:27:01 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-28 12:27:04 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-28 12:33:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-28 12:34:09 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-06-28 12:34:09 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-06-28 12:34:10 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-06-28 12:34:10 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-06-28 12:34:13 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-06-28 12:34:13 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-06-28 12:34:17 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-06-28 12:34:19 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-06-30 18:39:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-30 18:39:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-30 18:40:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-06-30 18:41:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-07-01 18:31:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-07-01 18:31:54 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-01 18:31:54 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-01 18:31:55 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-01 18:31:55 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-01 18:31:58 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-01 18:31:58 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-01 18:32:02 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-01 18:32:04 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-01 18:34:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-07-01 18:34:23 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-01 18:34:24 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-01 18:34:24 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-01 18:34:24 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-01 18:34:27 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-01 18:34:28 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-01 18:34:33 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-01 18:34:36 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-01 18:57:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\crossbwsertesting.xml
+
+2024-07-01 18:57:28 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-01 18:57:28 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-07-01 18:57:36 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-01 18:57:36 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-01 18:57:38 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-01 18:57:38 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-01 18:57:41 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-01 18:57:41 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-02 11:49:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\docker.xml
+
+2024-07-02 11:55:31 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-02 11:55:31 ERROR TC001_AccountRegistrationTest:54 - Test failed..
+2024-07-02 12:20:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\docker.xml
+
+2024-07-02 12:23:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\docker.xml
+
+2024-07-02 14:20:08 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-02 14:20:08 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-02 14:20:09 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-02 14:20:09 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-02 14:20:12 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-02 14:20:12 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-02 14:20:17 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-02 14:20:20 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-03 13:52:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-07-03 13:52:12 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-03 13:52:12 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-03 13:52:13 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-03 13:52:13 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-03 13:52:15 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-03 13:52:15 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-03 13:52:19 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-03 13:52:22 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-03 13:55:32 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-03 13:55:32 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-03 13:55:33 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-03 13:55:33 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-03 13:55:36 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-03 13:55:36 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-03 13:55:41 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-03 13:55:43 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-03 13:59:52 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-03 13:59:52 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-03 13:59:53 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-03 13:59:53 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-03 13:59:56 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-03 13:59:56 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-03 14:00:01 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-03 14:00:03 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
+2024-07-03 14:25:43 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-03 14:25:43 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-03 14:25:44 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-03 14:25:44 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-03 14:25:46 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-03 14:25:47 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-03 14:25:51 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-03 14:25:53 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
