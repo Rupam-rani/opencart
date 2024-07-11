@@ -76,7 +76,7 @@ public void setup(String os,String br) throws IOException {
 		default:System.out.println("No matching browser");
 		return;
 		}
-		driver=new RemoteWebDriver(new URL("https://tutorialsninja.com/demo/"),capabilities);
+		driver=new RemoteWebDriver(new URL("http://192.168.1.98:4444"),capabilities);
 		
 	}
 	if(p.getProperty("execution_env").equalsIgnoreCase("local")) 

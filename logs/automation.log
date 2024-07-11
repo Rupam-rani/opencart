@@ -506,3 +506,14 @@
 2024-07-10 14:37:57 INFO  Utils:112 - [TestNG] Running:
   C:\Java folder\opencart\master.xml
 
+2024-07-11 14:40:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Java folder\opencart\master.xml
+
+2024-07-11 14:40:09 INFO  TC001_AccountRegistrationTest:16 - ****Starting TC001_AccountRegistrationTest****
+2024-07-11 14:40:09 INFO  TC001_AccountRegistrationTest:22 - clicked on my accunt log
+2024-07-11 14:40:10 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register link
+2024-07-11 14:40:10 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-07-11 14:40:13 INFO  TC001_AccountRegistrationTest:46 - Validating confomation message
+2024-07-11 14:40:13 INFO  TC001_AccountRegistrationTest:58 - Finished TC001_AccountRegistrationTest 
+2024-07-11 14:40:18 INFO  TC002_LoginTest:18 - ***Starting TC002_LoginTest***** 
+2024-07-11 14:40:20 INFO  TC002_LoginTest:38 - ***Finished TC002_LoginTest 
